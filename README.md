@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **luubaoquoc/luubaoquoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="67" height="67" /></div>
