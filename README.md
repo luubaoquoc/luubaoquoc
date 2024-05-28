@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="67" height="67" /></div>
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+</p>
